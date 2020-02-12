@@ -15,7 +15,7 @@ class Particles extends Component {
         this.fieldForce = 0.15;
         this.noiseSpeed = 0.003;
         this.sORp = true;
-        this.trailLength = 0.15;
+        this.trailLength = 0.16;
         this.hueBase = 10;
         this.hueRange = 5;
         this.maxSpeed = 2.5;
